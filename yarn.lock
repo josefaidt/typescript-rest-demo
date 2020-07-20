@@ -505,10 +505,10 @@ etag@~1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
 
-express-fs-router@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/express-fs-router/-/express-fs-router-0.2.3.tgz#af70e65f08c575e97c3d7f9e7e7e75d6fa472c31"
-  integrity sha512-/eFt+FfctjROqov5Sz+T/7YqzX5HrVJX2qk1UMzoX4WQdfmOJAYWM4jxqOiiIRIYx1DuX2kfZxNKVg2TCPtpmg==
+express-fs-router@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/express-fs-router/-/express-fs-router-0.3.0.tgz#cbb44da9d2f885c2a1df7243a583595227841fa7"
+  integrity sha512-MlYIFlGefkfTNby9dHTFHvMag1varjc19eN54keLb2pnTNeePeuJvw2se18bHRjUgTfHBQXAM3KqbvNM99657w==
 
 express@^4.17.1:
   version "4.17.1"
